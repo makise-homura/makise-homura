@@ -1,5 +1,3 @@
-**Note**: I'm going to be offline since July 16 2022 till August 7 2022. Don't worry, I'll be back and check updates once I'm back.
-
 Due to the latest events regarding how GitHub treats user accounts from Russia, I'm expecting to be banned here with non-zero possibility, so in case it occurs, you can still find all repositories existing here on my GitLab page: https://gitlab.com/makise-homura.
 
 Also feel free to contact me in any case related to my contributions (or anything else, actually):
